@@ -24,6 +24,8 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/ResourceBundlesContentSet"/>
    </list>
    <list n="listOfChildren">
+      <hash><url n="URL" path="MessageConsumeService/MessageConsumeService.jpr"/></hash>
+      <hash><url n="URL" path="MessagePublishServiceBPELProcess/MessagePublishServiceBPELProcess.jpr"/></hash>
       <hash><url n="URL" path="MesssagePublishService/MesssagePublishService.jpr"/></hash>
    </list>
 </jws:workspace>
